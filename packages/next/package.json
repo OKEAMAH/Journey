@@ -207,7 +207,7 @@
     "browserslist": "4.22.2",
     "buffer": "5.6.0",
     "bytes": "3.1.1",
-    "ci-info": "watson/ci-info#f43f6a1cefff47fb361c88cf4b943fdbcaafe540",
+    "ci-info": "watson/ci-info#3e1488e98680f1f776785fe8708a157b7f00e568",
     "cli-select": "1.1.2",
     "client-only": "0.0.1",
     "comment-json": "3.0.3",
